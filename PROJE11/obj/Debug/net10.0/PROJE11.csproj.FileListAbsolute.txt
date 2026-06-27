@@ -1,0 +1,14 @@
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\bin\Debug\net10.0\PROJE11.exe
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\bin\Debug\net10.0\PROJE11.deps.json
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\bin\Debug\net10.0\PROJE11.runtimeconfig.json
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\bin\Debug\net10.0\PROJE11.dll
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\bin\Debug\net10.0\PROJE11.pdb
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\obj\Debug\net10.0\PROJE11.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\obj\Debug\net10.0\PROJE11.AssemblyInfoInputs.cache
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\obj\Debug\net10.0\PROJE11.AssemblyInfo.cs
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\obj\Debug\net10.0\PROJE11.csproj.CoreCompileInputs.cache
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\obj\Debug\net10.0\PROJE11.dll
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\obj\Debug\net10.0\refint\PROJE11.dll
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\obj\Debug\net10.0\PROJE11.pdb
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\obj\Debug\net10.0\PROJE11.genruntimeconfig.cache
+D:\VS\vs progs\vs2026\1sınıfprojeler\PROJE11\obj\Debug\net10.0\ref\PROJE11.dll
